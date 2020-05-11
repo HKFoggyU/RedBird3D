@@ -12,7 +12,7 @@ Follow the order of:
 ```
 redbird.jpg => redbird.psd => redbird*.png => redbird*.3mf => redbird2Print*.stl
 ```
-to create this 3D model from a photon taken by my phone because I did not find any specific parameters about the Redbird.
+to create this 3D model from a photo taken by my phone because I did not find any specific parameters about the Redbird.
 
 ## Preview
 
