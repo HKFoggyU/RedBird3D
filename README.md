@@ -1,4 +1,5 @@
-# RedBird3D
+# RedBird3D --- Deprecated!
+**Please use [OpenRedBird3D](https://github.com/HKFoggyU/OpenRedBird3D) instead.**
 
 3D model for HKUST Redbird (Sundial)
 
